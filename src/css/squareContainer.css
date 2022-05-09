@@ -1,0 +1,9 @@
+.square_container {
+    display: block;
+    width: 150px;
+    max-width: 100%;
+    height: 150px;
+
+    border: 2px solid whitesmoke;
+    border-radius: 2px;
+}

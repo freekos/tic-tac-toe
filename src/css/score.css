@@ -1,0 +1,47 @@
+.score {
+    display: flex;
+    flex-direction: column;
+
+    width: 210px;
+    max-width: 100%;
+    height: 70px;
+
+    margin: 0 auto;
+    margin-top: 35px;
+}
+
+.score_text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    width: 100%;
+    height: 30px;
+}
+
+.score_text_p {
+    font-size: 23px;
+    font-family: 'Caveat', cursive;
+    font-weight: 300;
+
+    text-decoration: underline;
+
+    color: whitesmoke;
+}
+
+.score_num {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    width: 100%;
+    height: 20px;
+}
+
+.score_num_p {
+    font-size: 17px;
+    font-family: 'Caveat', cursive;
+    font-weight: 300;
+
+    color: whitesmoke;
+}

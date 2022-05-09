@@ -1,0 +1,13 @@
+.symbol_x {
+    font-size: 100px;
+    font-family: 'Shadows Into Light', cursive;
+
+    color: rgb(158, 45, 45);
+}
+
+.symbol_o {
+    font-size: 100px;
+    font-family: 'Shadows Into Light', cursive;
+
+    color:mediumseagreen;
+}
